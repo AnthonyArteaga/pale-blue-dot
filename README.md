@@ -1,2 +1,2 @@
 # pale-blue-dot
-This is an old project creating basic API from a csv on cities all around the world.
+This is an old project creating a basic API from a csv of cities around the world.
